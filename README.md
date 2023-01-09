@@ -1,4 +1,4 @@
-# Aplicación web administrador de pacientes de veterinaria
+# Aplicación web administrador de pacientes de veterinaria (POO)
 El proyecto es simple, siguiendo buenas prácticas se ha implementado la creación de Objetos que almacenan datos según el paradigma de Programación Orientada a Objetos con el lenguaje de programación JavaScript.
 Mediante un formulario se hacen las diferentes entradas de datos en los inputs correspondientes, datos que se almacenan en un objeto el cual es manipulado mediante las Clases llaamadas Citas y UI.
 
